@@ -28,5 +28,5 @@ REAL-DEVS:
  
  8: SendNudes: Way better than AirMarshal at everything possible!
  
- 9: AirMarshal: Codes
+ 9: AirMarshal: G0d Developer helps SendNudes.
 
