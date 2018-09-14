@@ -1,4 +1,4 @@
-For AirMarshal's Skid list i think it takes me off cuz https://gyazo.com/a822fbbabc53bf4cdbf5179ce4f2fb8b im dev on his server.
+For AirMarshal's Skid list I think it takes me off cuz https://gyazo.com/a822fbbabc53bf4cdbf5179ce4f2fb8b im dev on his server.
 
 SKID-LIST:
  
@@ -16,7 +16,7 @@ REAL-DEVS:
  
  2: Nathan/BCCM: God dev fixed an hcf core(had to send to AirMarshal).
  
- 3: Nathan/Payless: Works for many servers. Has many custom plugins.
+ 3: Nathan/Payless: Worked for many servers. Has many custom plugins.
  
  4: Emilo: well you guys should know this guy.
  
