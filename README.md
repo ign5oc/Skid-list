@@ -1,5 +1,3 @@
-For AirMarshal's Skid list I think it takes me off cuz https://gyazo.com/a822fbbabc53bf4cdbf5179ce4f2fb8b im dev on his server.
-
 SKID-LIST:
  
  1: DaddyDombo: Skids/leaks cores and calls them his.
@@ -9,6 +7,8 @@ SKID-LIST:
  3: 325k: Claims code as his own.
  
  4: Kipes: upractice skid.
+ 
+ 5: GregoryDevelopment: Retard
 
 REAL-DEVS:
 
