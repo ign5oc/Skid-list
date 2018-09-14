@@ -25,3 +25,8 @@ REAL-DEVS:
  6: joeleoli: heard some rumors but overall what i've seen good dev. (except for reselling zonix's stuff)
  
  7: Junas: might not code best, but can code.
+ 
+ 8: SendNudes: Way better than AirMarshal.
+ 
+ 9: AirMarshal: Codes
+
