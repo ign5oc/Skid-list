@@ -26,7 +26,7 @@ REAL-DEVS:
  
  7: Junas: might not code best, but can code.
  
- 8: SendNudes: Way better than AirMarshal.
+ 8: SendNudes: Way better than AirMarshal at everything possible!
  
  9: AirMarshal: Codes
 
