@@ -4,7 +4,7 @@ SKID-LIST:
  
  2: Mython: don't know all i know is he "recoded" all of joeleoli's plugin.
  
- 3: 325k: Claims code as his own.
+ 3: 325k: Claims code as his own, and he talks shit on other servers cores calling them "notifyz" core calling real devs skids.
  
  4: Kipes: upractice skid.
  
@@ -31,4 +31,7 @@ REAL-DEVS:
  9: AirMarshal: G0d Developer helps SendNudes.
  
  10: ClassifiedDev: Factions Developer. He's good trust me
+ 
+ 11: InspectMC: hard to add since he's on joeleolis skid list ;P
+
 
