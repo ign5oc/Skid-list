@@ -11,6 +11,7 @@ SKID-LIST:
  5: GregoryDevelopment: Retard
  
  6: Velds: Only wrote five lines of code trash dev
+ 7. sendnudes maybe skid omegalul
 
 REAL-DEVS:
 
